@@ -10,3 +10,16 @@ The player could also include search and filtering features to allow the user to
 
 Overall, This  Music Player created using HTML and CSS as a frontend would be a versatile and 
 customizable application that could provide a great user experience for music lovers.
+
+
+PRIMARY PAGE:
+![Screenshot (5)](https://user-images.githubusercontent.com/125077438/227763488-4d17157b-f3f5-4591-81cc-d0edb1dfb470.png)
+
+
+
+
+
+
+
+SECONDARY PAGE:
+![Screenshot (6)](https://user-images.githubusercontent.com/125077438/227763493-d0211abf-0669-4169-8f72-23d29148def1.png)
